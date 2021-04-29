@@ -1,0 +1,60 @@
+Week1
+Basic Cloud Concept n Def of Aws
+Def-a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow
+Principles of cloud computing
+Agility
+Elasticity
+Flexibility
+Security
+
+Advantages of CC
+Trade capital expense for variable expense – not having to invest heavily in data centers and servers 
+2. Benefit from massive economies of scale –a lower variable cost than you can get on your own. 
+3. Stop guessing capacity – Eliminate guessing on your infrastructure capacity needs.
+4. Increase speed and agility –new IT resources are only a click away 
+5. Stop spending money running and maintaining data centers – Focus on projects that differentiate your business, not the infrastructure. Cloud computing lets you focus on your own customers, rather than on the heavy lifting of racking, stacking, and powering servers.
+
+6. Go global in minutes – Easily deploy your application 
+
+Types of Cloud
+
+Hybrid Cloud
+Public Cloud
+Private Cloud
+
+Hands-on IAM Access
+Creating users
+Adding groups
+to be continued..
+
+29/04/2021
+Security and Compliance
+	
+- Shared Resposibilty Model of Aws
+https://aws.amazon.com/compliance/shared-responsibility-model/
+
+Security of cloud
+ AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud.
+security in Cloud
+amount of configuration work the customer must perform as part of their security responsibilities
+This customer/AWS shared responsibility model also extends to IT controls
+Inherited Controls – Controls which a customer fully inherits from AWS.
+	Physical and Environmental controls
+
+Shared Controls – Controls which apply to both the infrastructure layer and customer layers, but in completely separate contexts or perspectives.
+
+Patch Management – AWS is responsible for patching and fixing flaws within the infrastructure, but customers are responsible for patching their guest OS and applications.
+Configuration Management – AWS maintains the configuration of its infrastructure devices, but a customer is responsible for configuring their own guest operating systems, databases, and applications.
+Awareness & Training - AWS trains AWS employees, but a customer must train their own employees.
+
+https://www.cloudhealthtech.com/blog/how-aws-shared-responsibility-model-works
+
+IAM MFA
+Multi Factor Authentication
+Like Authy and Google Authenticator for more security
+as one of the best ways to secure IAM Accounts
+IAM Policies
+- IAM READ ONly Policy
+- IAM Administrative Policy
+
+ 
