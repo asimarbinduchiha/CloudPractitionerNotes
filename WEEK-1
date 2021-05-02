@@ -171,6 +171,18 @@ Life cycle of an instance
 Hibernation of an instance??
 ability to launch EC2 instances, set them up as desired, hibernate them, and then quickly bring them back to life when you need them. Applications pick up exactly where they left off instead of rebuilding their memory footprint.
 which saves the contents from the instance memory (RAM) to your Amazon EBS root volume.
+02/05/2021
+Load Balancer
+It Distributes incoming application traffic accross multiple traffic EC2 instances in multiple availabilty zones.
+it increases the fault tolerance of the application..
+ELB detects the unhealthy instances and routes traffic to healthy instances
+Healthy Instance??
+Health Check
+3 Types
+Application Load Balancer
+Network Load balancer
+Classic Load Balancer
+
 
 
 
