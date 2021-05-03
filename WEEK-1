@@ -183,6 +183,34 @@ Application Load Balancer
 Network Load balancer
 Classic Load Balancer
 
+03/05/2021
+VPC
+a service that lets you launch AWS resources in a logically isolated virtual network that you define
+
+Life brfore vpc
+Flat network, Public, Individual Connection, Public ips
+Components of vpc
+Subnet
+Routers
+Routing Tables
+Helps to find the route to send the data to destination
+Elastic IP
+Permanent Ip assigned to Dynamically assigned IP
+Elastic Network Interface
+Internet Gateway
+Customer Gateway
+VPN Connection
+Virtual Private	gateway
+VPC Peering
+VPC Endpoints
+NAT Gateway
+How Routing Works
+IP and Subnetting
+VPN 
+Private
+public subnets
+10.0.0.0/16
+To Be continued...
 
 
 
