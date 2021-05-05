@@ -211,6 +211,29 @@ Private
 public subnets
 10.0.0.0/16
 To Be continued...
+04/05/2015
+EC2 Continued
+Security Groups
+Acts as a firewall for EC2 instance
+Hands-On Creating a security group for my instance
+adding HTTP Rule to it n accesing it from anywhere  
+important ports
+.22-SSH
+.21-FTP Upload
+.22-SFTP(Using SSH) upload
+.80-HTTP(UNSECURED Websites)
+.443-HTTPS
+.3389-REMOTE DESKTOP PROTOCOL FOR WINDOWS INSTANCE
+SSH On Windows n its hands-on
+
+EC2 instances Purchasing 
+On demand Instancer
+Reserved ( 1 Year)
+	Reserved Instances-long workload
+	Convertible -long workload with flexible instances
+	Scheduled- Every wed between 3-6
+Spot-Short workloads Cheap,less reliable
+
 
 
 
