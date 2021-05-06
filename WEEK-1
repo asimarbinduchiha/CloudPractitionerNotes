@@ -233,7 +233,18 @@ Reserved ( 1 Year)
 	Convertible -long workload with flexible instances
 	Scheduled- Every wed between 3-6
 Spot-Short workloads Cheap,less reliable
-
+05/04/2021
+EBS
+Elastic Block Storage
+EBS Multi-attach
+Ebs Snapshots
+AMI
+EC2 image builder
+Automate the creation,patching up softwares,ec2 instance , test n validate
+EC2 Instance Store
+for better and high I/O performance
+EFS
+and all of hands-on till AMI
 
 
 
