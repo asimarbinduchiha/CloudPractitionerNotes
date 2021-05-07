@@ -245,11 +245,12 @@ EC2 Instance Store
 for better and high I/O performance
 EFS
 and all of hands-on till AMI
-
-
-
-
- 
-
-
-
+06/05/2021
+Hands-on assigning one or more security groups to Instance
+S3 introductory
+Launching S3 Buckets and uploading objects
+Security Related to S3
+User based- IAM Policies(Not had Hands-On this Particular)
+Resource Based-S3 Bucket policy
+had hands-on with the bucket policy 
+Hosted a static website using S3 and accessed the files uploaded in my bucket through public url
