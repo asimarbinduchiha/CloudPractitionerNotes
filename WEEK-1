@@ -254,3 +254,6 @@ User based- IAM Policies(Not had Hands-On this Particular)
 Resource Based-S3 Bucket policy
 had hands-on with the bucket policy 
 Hosted a static website using S3 and accessed the files uploaded in my bucket through public url
+
+
+Stickiness
