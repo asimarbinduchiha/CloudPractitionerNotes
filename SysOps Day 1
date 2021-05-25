@@ -1,0 +1,18 @@
+Elastic Load Balancer
+ Connecion Draining CLB
+ Deregistration Delay(ALB)
+ Time to complete inflight requests while the instance is deregistering and unhealthy.
+It will allow ongoing instance to do its stuff before being de-registered
+As Soon as an instance is in draining mode it will stop sending the connections of ec2 to its particular instnace
+By default its 300 secs
+1 - 3600 secs Range
+
+Load Balancer Pre warming
+Open a support ticket with the help of aws support
+scaling in advance
+Duration of traffic 
+Expected Results per second
+Error Codes
+200 for okay request
+4xx for client side
+5xx is for server side errors
