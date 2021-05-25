@@ -15,4 +15,12 @@ Expected Results per second
 Error Codes
 200 for okay request
 4xx for client side
+400 BAD Request
+401-unauthorized
+403-Forbidden
+460-Client Closed Connection
 5xx is for server side errors
+500-Internal Server
+502-bad Gateway
+503-service unavailable
+504-Probably issue with the server
