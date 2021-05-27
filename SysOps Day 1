@@ -24,3 +24,33 @@ Error Codes
 502-bad Gateway
 503-service unavailable
 504-Probably issue with the server
+
+27/05/2021
+Elastic Beanstalk
+This is easy to use service for deploying and scaling web applications with various supported programming languages.
+we have to as a developer manage our infrastructure,deploy code,configure all the databases and load balancers and have scaling concerns.
+Beanstalk manages all the above things and a dev only need to write the code and thats it everything is managed by elastic beanstalk.
+4 types
+All at once
+Rolling
+Rolling with batches
+Immutable
+PaaS
+We can still configure all the above according to our use,
+Three architecture models
+Single instnace group
+Load balancers plua auto scaling groups
+Only ASG(non-web apps)
+Components
+Application
+Application version
+Environment Name
+Rollback feature is available
+-
+All at once- Have a downtime and the fastest with no additional charges
+Rolling - creating a bucket size and the stopping the instances followed by the updation them n reloading with new versions,less availability no downtime
+Rolling with bathces- creating extra two instances so that the desired size is always constant with high availability
+Immutabl Creating a teporaray separate asg n adding the new version n merging all into one and then removing the  old versions.
+Blue/green-Swapping the Traffic to another url
+Using of Golden Amis to resove the package dependicies to shorter period of time/
+
