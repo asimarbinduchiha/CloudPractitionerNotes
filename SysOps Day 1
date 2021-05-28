@@ -54,3 +54,14 @@ Immutabl Creating a teporaray separate asg n adding the new version n merging al
 Blue/green-Swapping the Traffic to another url
 Using of Golden Amis to resove the package dependicies to shorter period of time/
 
+20/05/2021
+ELB Ssl Tls- to have a secure flight in transit connection to the host name
+SNI- server name Identification to identify the hostname for the connection during hanshaking connection of the user with the elb
+ELB Metrics
+no of running instancces
+count of 2xx,3xx.4xx(client side),5xx errors(server side)
+Loggings- Client Ip,Time.
+
+
+
+
