@@ -61,6 +61,13 @@ ELB Metrics
 no of running instancces
 count of 2xx,3xx.4xx(client side),5xx errors(server side)
 Loggings- Client Ip,Time.
+31/05/2021
+CloudFormation
+Create 
+update delete stack
+Parameters to take the input for specific user
+mappings-hardcoded
+Outputs- Export the outputs and import it to another yaml file
 
 
 
